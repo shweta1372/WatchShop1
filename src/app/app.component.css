@@ -1,0 +1,35 @@
+.whole{
+    background: url() no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+ 
+  /* Full height */
+  height: 100%; 
+  
+}
+
+
+.h1{
+    color: white;
+  text-shadow: 3px 3px 5px #000000;
+  
+}
+
+
+  body {
+    height: 100%;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+ 
+  .container{
+    backdrop-filter: blur(100px);
+    border: blanchedalmond;
+  }
+  
